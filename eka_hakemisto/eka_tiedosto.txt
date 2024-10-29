@@ -1,1 +1,4 @@
 Muokkaus 1: lisätty tämä tekstirivi
+
+
+Muokkaus 2: tehdään muutoksia ja lisätään ne staging-alueelle git add -p -komennolla

@@ -1,1 +1,5 @@
 Muokkaus 1: lisätty tämä tekstirivi tähän myös
+
+
+
+Muokkaus 2: kokeillaan git add -p
